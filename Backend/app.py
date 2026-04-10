@@ -8,7 +8,7 @@ CORS(app)
 # ==============================
 # MONGODB CONNECTION
 # ==============================
-MONGO_URI="mongodb+srv://urvishnu:urvishnu1546@mydbcluster.kczb8ak.mongodb.net/?appName=MyDbCluster"
+MONGO_URI="mongodb+srv://sivionglobaltechnologies_db_user:Sivion2026@sgt.l5zjhf4.mongodb.net/?appName=SGT"
 client = MongoClient(MONGO_URI)
 db = client["SmartXML_DB"]
 
